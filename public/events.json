@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/hXBcChR/marriage-ceremony.jpg",
+        "title": "Elegant Wedding Ceremony",
+        "short_description": "Join us for a romantic and elegant wedding ceremony.",
+        "price": 250,
+        "venue": "Grand Ballroom, Fairytale Gardens",
+        "location": "1234 Enchanted Lane, Fantasyland"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/LzKH6JF/birthday-bash.jpg",
+        "title": "Alice's 30th Birthday Bash",
+        "short_description": "Celebrate Alice's milestone birthday with cake, music, and fun!",
+        "price": 50,
+        "venue": "Wonderland Park Pavilion",
+        "location": "567 Wonderland Avenue, Wonderland"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/3k9K3nP/summer-music-festival.jpg",
+        "title": "Summer Music Festival",
+        "short_description": "Rock out to your favorite bands at our summer music festival.",
+        "price": 75,
+        "venue": "Sunset Amphitheater",
+        "location": "789 Beachside Drive, Seaview"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/pLJbZzY/soccer.jpg",
+        "title": "Soccer Championship Final",
+        "short_description": "Witness the intense soccer championship final match.",
+        "price": 30,
+        "venue": "City Stadium",
+        "location": "456 Main Street, Metroville"
+    },
+    {
+        "id": 5,
+        "img": "https://i.ibb.co/0X6Y5CY/art-exibition.jpg",
+        "title": "Contemporary Art Exhibition",
+        "short_description": "Explore cutting-edge art at our contemporary exhibition.",
+        "price": 20,
+        "venue": "Gallery X",
+        "location": "101 Art Avenue, Artville"
+    },
+    {
+        "id": 6,
+        "img": "https://i.ibb.co/KX9zMqW/baby-shower.jpg",
+        "title": "Joyful Baby Shower Celebration",
+        "short_description": "Celebrate the impending arrival of a bundle of joy.",
+        "price": 40,
+        "venue": "Blossom Garden Banquet Hall",
+        "location": "222 Garden Lane, Bloomington"
+    },
+    {
+        "id": 7,
+        "img": "https://i.ibb.co/823fzxc/film-festival.jpg",
+        "title": "International Film Festival",
+        "short_description": "Enjoy a diverse selection of international films.",
+        "price": 15,
+        "venue": "Cineplex Theater",
+        "location": "333 Cinema Road, Filmington"
+    },
+    {
+        "id": 8,
+        "img": "https://i.ibb.co/ys9zK46/ballet-performance.jpg",
+        "title": "Ballet Gala Performance",
+        "short_description": "Experience the grace and beauty of ballet in this gala performance.",
+        "price": 50,
+        "venue": "Royal Opera House",
+        "location": "777 Dance Street, Dancetown"
+    },
+    {
+        "id": 9,
+        "img": "https://i.ibb.co/4g6TRWg/gala-dinner.jpg",
+        "title": "Charity Gala Dinner",
+        "short_description": "Support a worthy cause at our charity gala dinner.",
+        "price": 100,
+        "venue": "Luxury Hotel Ballroom",
+        "location": "888 Charity Lane, Generosityville"
+    },
+    {
+        "id": 10,
+        "img": "https://i.ibb.co/SXcW2Dh/food.jpg",
+        "title": "International Food Festival",
+        "short_description": "Savor flavors from around the world at our food festival.",
+        "price": 25,
+        "venue": "Culinary Square",
+        "location": "999 Gourmet Avenue, Foodville"
+    }
+]

@@ -1,0 +1,38 @@
+[
+    {
+    "id": 1,
+    "img": "https://i.ibb.co/qgg6hrT/business-conf.jpg",
+    "title": "Business Conference",
+    "amount": 1000
+  },
+  {
+    "id": 2,
+    "img": "https://i.ibb.co/Sw6j4d2/farewell-party.jpg",
+    "title": "Farewell Party",
+    "amount": 14500
+  },
+  {
+    "id": 3,
+    "img": "https://i.ibb.co/DkLSDWj/birthday.jpg",
+    "title": "Birthday Party",
+    "amount": 860
+  },
+  {
+    "id": 4,
+    "img": "https://i.ibb.co/4NFm72v/comedy.jpg",
+    "title": "Comedy Night",
+    "amount": 450
+  },
+  {
+    "id": 5,
+    "img": "https://i.ibb.co/Y0PwFgf/tecj-conf.jpg",
+    "title": "Tech Conference",
+    "amount": 2500
+  },
+  {
+    "id": 6,
+    "img": "https://i.ibb.co/cypF2GZ/food-festive.jpg",
+    "title": "Food Festival",
+    "amount": 1800
+  }
+]

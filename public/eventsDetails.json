@@ -1,0 +1,63 @@
+
+[
+    {
+        "id": 1,
+        "img": "https://example.com/wedding.jpg",
+        "price": 250,
+        "long_description": "Join us for a romantic and elegant wedding ceremony at the Grand Ballroom in Fairytale Gardens, located at 1234 Enchanted Lane in Fantasyland."
+    },
+    {
+        "id": 2,
+        "img": "https://example.com/birthday.jpg",
+        "price": 50,
+        "long_description": "Celebrate Alice's 30th birthday bash at Wonderland Park Pavilion, located at 567 Wonderland Avenue in Wonderland. Enjoy cake, music, and fun!"
+    },
+    {
+        "id": 3,
+        "img": "https://example.com/concert.jpg",
+        "price": 75,
+        "long_description": "Rock out to your favorite bands at our summer music festival. The event will be held at the Sunset Amphitheater, located at 789 Beachside Drive in Seaview."
+    },
+    {
+        "id": 4,
+        "img": "https://example.com/sports.jpg",
+        "price": 30,
+        "long_description": "Witness the intense soccer championship final match at City Stadium, located at 456 Main Street in Metroville."
+    },
+    {
+        "id": 5,
+        "img": "https://example.com/art_exhibition.jpg",
+        "price": 20,
+        "long_description": "Explore cutting-edge art at our contemporary exhibition hosted at Gallery X, located at 101 Art Avenue in Artville."
+    },
+    {
+        "id": 6,
+        "img": "https://example.com/baby_shower.jpg",
+        "price": 40,
+        "long_description": "Celebrate the impending arrival of a bundle of joy at the Blossom Garden Banquet Hall, located at 222 Garden Lane in Bloomington."
+    },
+    {
+        "id": 7,
+        "img": "https://example.com/film_festival.jpg",
+        "price": 15,
+        "long_description": "Enjoy a diverse selection of international films at the Cineplex Theater, located at 333 Cinema Road in Filmington."
+    },
+    {
+        "id": 8,
+        "img": "https://example.com/dance_performance.jpg",
+        "price": 50,
+        "long_description": "Experience the grace and beauty of ballet in this gala performance at the Royal Opera House, located at 777 Dance Street in Dancetown."
+    },
+    {
+        "id": 9,
+        "img": "https://example.com/charity_gala.jpg",
+        "price": 100,
+        "long_description": "Support a worthy cause at our charity gala dinner, held in the luxury hotel ballroom at 888 Charity Lane in Generosityville."
+    },
+    {
+        "id": 10,
+        "img": "https://example.com/food_festival.jpg",
+        "price": 25,
+        "long_description": "Savor flavors from around the world at our food festival, hosted at Culinary Square, located at 999 Gourmet Avenue in Foodville."
+    }
+]
